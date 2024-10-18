@@ -6,13 +6,13 @@
 
 #include <ESP32Servo.h>
 
-const char* ssid = "Guntur";
+const char* ssid = "";
 
-const char* password = "burunggagak";
+const char* password = "";
 
-#define BOTtoken "7832024760:AAEaz4JIav0KNea601wHgklvy71mjAjYvtk"
+#define BOTtoken ""
 
-#define CHAT_ID "7543457749"
+#define CHAT_ID ""
 
 Servo myServo;
 
